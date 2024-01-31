@@ -1,4 +1,4 @@
-#mesh_gid2lsdyna
+# mesh_gid2lsdyna
 
 This program reads a mesh file produced by Gid and saves it into LS-Dyna .k format.
 
